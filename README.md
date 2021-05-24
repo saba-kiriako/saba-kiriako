@@ -2,8 +2,8 @@
 
 I am Saba Kiriako a Software and Deep Learning Engineer from Beirut, Lebanon. I am interested in, developping (open source) intelligent software solutions with Python and C++.
 
-I studied Telecommunication and Computer Engineering for 4 years in Lebanon, Then I applied for an Engineering Diploma at Telecom Paris with a specialization in Data Sience and CyberSecurity and now I am finishing my studies with a Masters Degree in Data Science and AI with l'école Polytechnique.<p>
-I had the chance to compete in the biggest Robotics Competition : VEX Robotics World Championship in USA 2019 :us:
+I studied Telecommunication and Computer Engineering for 4 years at the [Lebanese University Faculty of Engineering II](http://www.ulfg.ul.edu.lb/) , then I applied for an Engineering Diploma at [Telecom Paris](https://www.telecom-paris.fr/) with a specialization in Data Sience and CyberSecurity; and now I am finishing my studies with a Masters Degree in Data Science and AI with [l'École Polytechnique](https://www.polytechnique.edu/en).<p>
+I had the chance to compete in the biggest Robotics Competition : [VEX Robotics World Championship](https://www.vexrobotics.com/competition) in USA 2019 :us:
   
 ![alt text](https://github.com/saba-kiriako/saba-kiriako/blob/main/Vex-Image.jpeg?raw=true)
 
